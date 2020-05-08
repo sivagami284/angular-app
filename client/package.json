@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git@github.com:angular-app/angular-app.git"
   },
+   "scripts": {
+    "sonar-scanner": "/var/lib/jenkins/workspace/sonar/node_modules/sonar-scanner/bin/sonar-scanner",
+   }
   "bugs": {
     "url": "https://github.com/angular-app/angular-app/issues"
   },
